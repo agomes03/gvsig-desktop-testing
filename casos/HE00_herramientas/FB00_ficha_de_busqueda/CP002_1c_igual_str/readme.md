@@ -16,7 +16,7 @@ Cargamos el fichero de datos y comprobamos que seleccionando un valor dentro del
 
 1. Añadiremos la capa shapefile y abriremos el fichero [FB_datos1.csv](https://github.com/agomes03/gvsig-desktop-testing/blob/master/data/HE00FB00/FB00_datos1.csv)
 2. Mostrar la tabla de atributos en la vista
-2. Seleccionar menu *Tabla/Busqueda por atributos. 
+2. Seleccionar menu *Tabla*/Busqueda por atributos
 3. Seleccionaremos el campo "String"
 4. Seleccionaremos el operador "Igual a"
 5. Seleccionaremos el valor "yo7"

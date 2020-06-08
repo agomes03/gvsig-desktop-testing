@@ -9,14 +9,14 @@ Cargamos el fichero de datos y comprobamos que seleccionando un valor dentro del
 ### Prerrequisitos
 
 1. Tener instalado *gvSIG desktop 2.5.1.* 
-2. Tener acceso a la tabla de datos **FB_datos1.csv**
+2. Tener acceso a la tabla de datos [FB_datos1.csv](https://github.com/agomes03/gvsig-desktop-testing/blob/master/data/HE00FB00/FB00_datos1.csv)
 3. Tener arrancada la aplicacion con una vista nueva y vacia activa
 
 ### Pasos
 
-1. Añadiremos la capa shapefile y abriremos el fichero **FB_datos1.csv**
+1. Añadiremos la capa shapefile y abriremos el fichero [FB_datos1.csv](https://github.com/agomes03/gvsig-desktop-testing/blob/master/data/HE00FB00/FB00_datos1.csv)
 2. Mostrar la tabla de atributos en la vista
-2. Seleccionar menu *Tabla/Busqueda por atributos. 
+2. Seleccionar menu *Tabla*/Busqueda por atributos
 3. Seleccionaremos el campo "Double"
 4. Seleccionaremos el operador "Igual a"
 5. Seleccionaremos el valor "12100.54321"
@@ -32,3 +32,4 @@ Como resultado de la busqueda obtendremos 1 resultado con el "ID = 2"
 En caso de que resultados sean incorrectos, puedes informar del problema en redmine de gvSIG desktop. Puedes encontrarlo en: https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues 
 
 [Abro una nueva publicacion a esta prueba](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP003+Busqueda+de+un+campo+de+tipo+double+en+un+shapefile)
+[](readme.md)

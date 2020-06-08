@@ -9,14 +9,14 @@ Cargar el fichero shapefile,**FB_datos1.csv**, y comprobar que seleccionando un 
 ### Prerrequisitos
 
 1. Tener instalado *gvSIG desktop 2.5.1.* 
-2. Tener acceso a la tabla de datos **FB_datos1.csv**
+2. Tener acceso a la tabla de datos [FB_datos1.csv](https://github.com/agomes03/gvsig-desktop-testing/blob/master/data/HE00FB00/FB00_datos1.csv)
 3. Tener arrancada la aplicacion con una vista nueva y vacia activa
 
 ### Pasos
 
-1. Añadiremos la capa shapefile y abriremos el fichero **FB_datos1.csv**
-2. Mostrar la tabla de atributos de **FB_datos1.csv** en la vista
-2. Seleccionar menu Tabla/Busqueda por atributos. Escoger el atributo que queramos
+1. Añadiremos la capa shapefile y abriremos el fichero [FB_datos1.csv](https://github.com/agomes03/gvsig-desktop-testing/blob/master/data/HE00FB00/FB00_datos1.csv)
+2. Mostrar la tabla de atributos en la vista
+2. Seleccionar menu *Tabla*/Busqueda por atributos
 3. Seleccionaremos el campo "Long"
 4. Seleccionaremos el operador "Igual a"
 5. Seleccionaremos el valor "9000"
