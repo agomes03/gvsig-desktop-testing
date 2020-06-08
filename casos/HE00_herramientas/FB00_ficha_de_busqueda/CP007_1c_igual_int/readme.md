@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargar el fichero shapefile,**FB_datos1.csv**, y comprobar que seleccionando un valor dentro del campo de tipo integer me escoge el registro correcto. El resultado final es correcto.
+Cargamos el fichero de datos y comprobamos que seleccionando un valor dentro del campo de tipo integer me escoge el registro correcto. El resultado final es correcto.
 
 ### Prerrequisitos
 
@@ -15,8 +15,8 @@ Cargar el fichero shapefile,**FB_datos1.csv**, y comprobar que seleccionando un 
 ### Pasos
 
 1. Añadiremos la capa shapefile y abriremos el fichero [FB_datos1.csv](https://github.com/agomes03/gvsig-desktop-testing/blob/master/data/HE00FB00/FB00_datos1.csv)
-2. Mostrar la tabla de atributos de **FB_datos1.csv** en la vista
-2. Seleccionar menu Tabla/Busqueda por atributos. Escoger el atributo que queramos
+2. Mostrar la tabla de atributos en la vista
+2. Seleccionar menu *Tabla*/Busqueda por atributos
 3. Seleccionaremos el campo "ID"
 4. Seleccionaremos el operador "Igual a"
 5. Seleccionaremos el valor "2"
