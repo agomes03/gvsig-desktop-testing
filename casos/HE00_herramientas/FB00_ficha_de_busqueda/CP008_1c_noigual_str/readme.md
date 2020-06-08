@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargar el fichero shapefile,**FB_datos1.csv**, y comprobar que seleccionando un valor dentro del campo de tipo boleano me escoge el registro correcto. El resultado final es correcto.
+Cargar el fichero shapefile,**FB_datos1.csv**, y comprobar que seleccionando un valor dentro del campo de tipo string me escoge el registro correcto. El resultado final es correcto.
 
 ### Prerrequisitos
 
