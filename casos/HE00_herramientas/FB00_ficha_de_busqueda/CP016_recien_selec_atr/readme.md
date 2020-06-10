@@ -1,10 +1,10 @@
-## HE00FB00CP015 Seleccion de un atributo de tipo decimal en un shapefile
+## HE00FB00CP016 Seleccion de un atributo de tipo decimal en un shapefile
 
-[Primero compruebo si hay una peticion abierta](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=subject&op%5Bsubject%5D=%7E&v%5Bsubject%5D%5B%5D=HE00FB00CP015&f%5B%5D=&c%5B%5D=tracker&c%5B%5D=status&c%5B%5D=priority&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=updated_on&group_by=)
+[Primero compruebo si hay una peticion abierta](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=subject&op%5Bsubject%5D=%7E&v%5Bsubject%5D%5B%5D=HE00FB00CP016&f%5B%5D=&c%5B%5D=tracker&c%5B%5D=status&c%5B%5D=priority&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=updated_on&group_by=)
 
 ### Descripcion
 
-Cargamos el fichero de datos y comprobamos que buscando un campo de tipo de decimal en la seleccion de atributos a traves del filtro de seleccion me escoge el campo correcto. El resultado final es correcto.
+Cargamos el fichero de datos y comprobamos que una vez buscado un campo de tipo de decimal en la seleccion de atributos me aparece el primero de la seleccion como el mas reciente utilizado. El resultado final no es correcto.
 
 ### Prerrequisitos
 
@@ -18,17 +18,17 @@ Cargamos el fichero de datos y comprobamos que buscando un campo de tipo de deci
 2. Mostrar la tabla de atributos en la vista
 2. Seleccionar menu *Tabla*/Busqueda por atributos
 3. Abriremos la opcion "Select attribute"
-4. Escribiremos la palabra "Decimal" en el buscador
-5. Pulsaremos en el filtro de seleccion y seleccionaremos el campo
-6. Pulsaremos en el boton "Aceptar"
+4. Seleccionaremos el campo "Decimal"
+5. Pulsaremos en el boton "Aceptar"
+6. Volveremos a abrir la opcion "Select attribute"
 
 ### Resultados esperados
 
-Como resultado de la seleccion obtendremos el campo "Decimal"
+Como resultado de la seleccion obtendremos el campo "Decimal" situado el primero como el mas reciente
 
 ### Reportar fallo
 
 En caso de que resultados sean incorrectos, puedes informar del problema en redmine de gvSIG desktop. Puedes encontrarlo en: https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues 
 
-[Abro una nueva publicacion a esta prueba](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP015+Seleccion+de+un+atributo+de+tipo+decimal+en+un+shapefile)
+[Abro una nueva publicacion a esta prueba](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP016+Seleccion+de+un+atributo+de+tipo+decimal+en+un+shapefile)
 [](readme.md)
