@@ -8,25 +8,25 @@
 
  Busqueda de un campo de tipo string
 
- [x] [Creacion del test plan] (https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP002_1c_igual_str)
+- [x] [Creacion del test plan] (https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP002_1c_igual_str)
  
  *gvsig-desktop-testing* (2/22)
  
  Busqueda de un campo de tipo double 
 
- [x] [Creacion del test plan] (https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP003_1c_igual_dbl)
+- [x] [Creacion del test plan] (https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP003_1c_igual_dbl)
 
  *gvsig-desktop-testing* (3/22)
 
  Busqueda de un campo de tipo long 
 
- [x] [Creacion del test plan] (https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP004_1c_igual_lng)
+- [x] [Creacion del test plan] (https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP004_1c_igual_lng)
 
  *gvsig-desktop-testing* (4/22)
  
  Busqueda de un campo de tipo byte
 
- [x] [Creacion del test plan] (https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP005_1c_igual_byt)
+- [x] [Creacion del test plan] (https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP005_1c_igual_byt)
 
  *gvsig-desktop-testing* (5/22)
 
