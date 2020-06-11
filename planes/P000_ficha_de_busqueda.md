@@ -45,3 +45,6 @@
 
 {% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda/CP020_colum_calc/readme.md %}
 
+{% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda/CP021_acum_filtro/readme.md %}
+
+{% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda/CP022_limpiar_busque/readme.md %}
