@@ -16,14 +16,14 @@ Cargamos el fichero de datos e introducimos el campo de tipo long en la ficha de
 
 1. Añadiremos la capa *.csv*
 2. Mostrar la tabla de atributos en la vista
-2. Seleccionar menu *Tabla*/Busqueda por atributos
-3. Abriremos las herramientas extra del panel de busqueda
-4. Seleccionaremos la herramienta "Seleccionar columnas a visualizar"
-5. Escribiremos "Long" en el buscador
-6. Pulsaremos en el icono del filtro de seleccion 
-7. Seleccionaremos el campo
-8. Pasaremos el campo seleccionado a la tabla de la derecha con las flechas
-9. Pulsaremos en el boton "Aceptar"
+3. Seleccionar menu *Tabla*/Busqueda por atributos
+4. Abriremos las herramientas extra del panel de busqueda
+5. Seleccionaremos la herramienta "Seleccionar columnas a visualizar"
+6. Escribiremos "Long" en el buscador
+7. Pulsaremos en el icono del filtro de seleccion 
+8. Seleccionaremos el campo
+9. Pasaremos el campo seleccionado a la tabla de la derecha con las flechas
+10. Pulsaremos en el boton "Aceptar"
 
 ### Resultados esperados
 

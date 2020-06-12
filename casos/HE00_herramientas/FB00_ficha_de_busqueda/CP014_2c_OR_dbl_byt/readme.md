@@ -16,14 +16,14 @@ Cargamos el fichero de datos y comprobamos que seleccionando un valor dentro del
 
 1. Añadiremos la capa *.csv*
 2. Mostrar la tabla de atributos en la vista
-2. Seleccionar menu *Tabla*/Busqueda por atributos
-3. Seleccionaremos el campo "Double"
-4. Escogeremos el operador logico "O"
-5. Seleccionaremos el segundo campo "Byte"
-4. Seleccionaremos el operador "Igual a" para los dos campos
-5. Seleccionaremos el valor "12102.54321"
-6. Seleccionaremos el valor "50"
-6. Pulsaremos en el boton "Buscar"
+3. Seleccionar menu *Tabla*/Busqueda por atributos
+4. Seleccionaremos el campo "Double"
+5. Escogeremos el operador logico "O"
+6. Seleccionaremos el segundo campo "Byte"
+7. Seleccionaremos el operador "Igual a" para los dos campos
+8. Seleccionaremos el valor "12102.54321"
+9. Seleccionaremos el valor "50"
+10. Pulsaremos en el boton "Buscar"
 
 ### Resultados esperados
 

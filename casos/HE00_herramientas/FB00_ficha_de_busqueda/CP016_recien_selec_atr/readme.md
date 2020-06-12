@@ -16,11 +16,11 @@ Cargamos el fichero de datos y comprobamos que una vez buscado un campo de tipo 
 
 1. Añadiremos la capa *.csv*
 2. Mostrar la tabla de atributos en la vista
-2. Seleccionar menu *Tabla*/Busqueda por atributos
-3. Abriremos la opcion "Select attribute"
-4. Seleccionaremos el campo "Decimal"
-5. Pulsaremos en el boton "Aceptar"
-6. Volveremos a abrir la opcion "Select attribute"
+3. Seleccionar menu *Tabla*/Busqueda por atributos
+4. Abriremos la opcion "Select attribute"
+5. Seleccionaremos el campo "Decimal"
+6. Pulsaremos en el boton "Aceptar"
+7. Volveremos a abrir la opcion "Select attribute"
 
 ### Resultados esperados
 

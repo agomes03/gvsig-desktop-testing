@@ -16,14 +16,14 @@ Cargamos el fichero de datos y comprobamos que seleccionando un valor dentro del
 
 1. Añadiremos la capa *.csv*
 2. Mostrar la tabla de atributos en la vista
-2. Seleccionar menu *Tabla*/Busqueda por atributos
-3. Seleccionaremos el campo "String"
-4. Escogeremos el operador logico "Y"
-5. Seleccionaremos el segundo campo "ID"
-4. Seleccionaremos el operador "Igual a" para los dos campos
-5. Seleccionaremos el valor "yo7"
-6. Seleccionaremos el valor "7"
-6. Pulsaremos en el boton "Buscar"
+3. Seleccionar menu *Tabla*/Busqueda por atributos
+4. Seleccionaremos el campo "String"
+5. Escogeremos el operador logico "Y"
+6. Seleccionaremos el segundo campo "ID"
+7. Seleccionaremos el operador "Igual a" para los dos campos
+8. Seleccionaremos el valor "yo7"
+9. Seleccionaremos el valor "7"
+10. Pulsaremos en el boton "Buscar"
 
 ### Resultados esperados
 

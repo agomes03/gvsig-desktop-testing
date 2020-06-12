@@ -16,11 +16,11 @@ Cargamos el fichero de datos y comprobamos que seleccionando un valor dentro del
 
 1. Añadiremos la capa *.csv*
 2. Mostrar la tabla de atributos en la vista
-2. Seleccionar menu *Tabla*/Busqueda por atributos
-3. Seleccionaremos el campo "String"
-4. Seleccionaremos el operador "no igual a"
-5. Seleccionaremos el valor "5"
-6. Pulsaremos en el boton "Buscar"
+3. Seleccionar menu *Tabla*/Busqueda por atributos
+4. Seleccionaremos el campo "String"
+5. Seleccionaremos el operador "no igual a"
+6. Seleccionaremos el valor "5"
+7. Pulsaremos en el boton "Buscar"
 
 ### Resultados esperados
 

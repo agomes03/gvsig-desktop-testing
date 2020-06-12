@@ -16,17 +16,16 @@ Cargamos el fichero de datos y creamos una columna calculada nueva a partir de u
 
 1. Añadiremos la capa *.csv*
 2. Mostrar la tabla de atributos en la vista
-2. Seleccionar menu *Tabla*/Busqueda por atributos
-3. Abriremos las herramientas extra del panel de busqueda
-4. Seleccionaremos la herramienta "Columnas calculadas"
-5. Pulsaremos el icono que permite crear una nueva columna calculada
-6. Crearemos una nueva columna llamada "Field"
-7. Rellenamos los campos de esa columna
-8. Pulsaremos el icono de "Evaluador de expresiones"
-9. Creamos la expresion  que rellene la columna
-7. Seleccionaremos el campo de tipo "String"
-8. Pulsaremos el boton "Aplicar cambios"
-8. Pulsaremos en el boton "Aceptar"
+3. Seleccionar menu *Tabla*/Busqueda por atributos
+4. Abriremos las herramientas extra del panel de busqueda
+5. Seleccionaremos la herramienta "Columnas calculadas"
+6. Pulsaremos el icono que permite crear una nueva columna calculada
+7. Crearemos una nueva columna llamada "Field"
+8. Rellenamos los campos de esa columna
+9. Pulsaremos el icono de "Constructor de expresiones"
+10. Creamos la expresion "String + Long" que rellene la columna
+11. Pulsaremos el boton "Aplicar cambios"
+12. Pulsaremos en el boton "Aceptar"
 
 ### Resultados esperados
 

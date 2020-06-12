@@ -16,12 +16,12 @@ Cargamos el fichero de datos y buscamos con el filtro de seleccion de atributos 
 
 1. Añadiremos la capa *.csv*
 2. Mostrar la tabla de atributos en la vista
-2. Seleccionar menu *Tabla*/Busqueda por atributos
-3. Abriremos la opcion "Select attribute"
-4. Escribiremos la palabra "Decimal" en el buscador
-5. Pulsaremos en el icono del filtro de seleccion 
-6. Seleccionaremos el campo 
-7. Pulsaremos en el boton "Aceptar"
+3. Seleccionar menu *Tabla*/Busqueda por atributos
+4. Abriremos la opcion "Select attribute"
+5. Escribiremos la palabra "Decimal" en el buscador
+6. Pulsaremos en el icono del filtro de seleccion 
+7. Seleccionaremos el campo 
+8. Pulsaremos en el boton "Aceptar"
 
 ### Resultados esperados
 
