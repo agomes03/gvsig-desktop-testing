@@ -32,5 +32,5 @@ Como resultado se habra creado la columna field en la tabla de atributos
 
 En caso de que resultados sean incorrectos, puedes informar del problema en redmine de gvSIG desktop. Puedes encontrarlo en: https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues 
 
-[Abro una nueva publicacion a esta prueba](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP020+Crear+una+columna+nueva+a+partir+de+datos+de+columnas+existentes)
+[Abro una nueva publicacion con este test](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP020+Crear+una+columna+nueva+a+partir+de+datos+de+columnas+existentes)
 [](readme.md)

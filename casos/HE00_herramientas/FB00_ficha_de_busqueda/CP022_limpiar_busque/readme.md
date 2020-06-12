@@ -29,5 +29,5 @@ Como resultado se limpiara el parametro de busqueda "ID = 5"
 
 En caso de que resultados sean incorrectos, puedes informar del problema en redmine de gvSIG desktop. Puedes encontrarlo en: https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues 
 
-[Abro una nueva publicacion a esta prueba](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP022+Limpiar+los+parametros+de+busqueda)
+[Abro una nueva publicacion con este test](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP022+Limpiar+los+parametros+de+busqueda)
 [](readme.md)

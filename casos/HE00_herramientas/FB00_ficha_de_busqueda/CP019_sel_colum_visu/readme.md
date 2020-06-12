@@ -32,5 +32,5 @@ Como resultado se visualizara el campo de tipo long en la tabla de atributos de 
 
 En caso de que resultados sean incorrectos, puedes informar del problema en redmine de gvSIG desktop. Puedes encontrarlo en: https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues 
 
-[Abro una nueva publicacion a esta prueba](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP019+Mostrar+una+columna+de+tipo+long+que+no+se+visualiza+en+la+ficha+de+busqueda)
+[Abro una nueva publicacion con este test](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP019+Mostrar+una+columna+de+tipo+long+que+no+se+visualiza+en+la+ficha+de+busqueda)
 [](readme.md)

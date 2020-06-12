@@ -34,5 +34,5 @@ Como resultado de la busqueda obtendremos 1 resultado con el "ID = 7"
 
 En caso de que resultados sean incorrectos, puedes informar del problema en redmine de gvSIG desktop. Puedes encontrarlo en: https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues 
 
-[Abro una nueva publicacion a esta prueba](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP013+Busqueda+de+dos+campos+de+tipo+string+y+de+tipo+integer)
+[Abro una nueva publicacion con este test](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP013+Busqueda+de+dos+campos+de+tipo+string+y+de+tipo+integer)
 [](readme.md)

@@ -31,5 +31,5 @@ Como resultado de la prueba obtendremos el parametro ("FB_datos1"."String"= 'yo7
 
 En caso de que resultados sean incorrectos, puedes informar del problema en redmine de gvSIG desktop. Puedes encontrarlo en: https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues 
 
-[Abro una nueva publicacion a esta prueba](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP017+Probando+el+historial+de+busqueda+con+un+campo+de+tipo+string)
+[Abro una nueva publicacion con este test](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP017+Probando+el+historial+de+busqueda+con+un+campo+de+tipo+string)
 [](readme.md)
