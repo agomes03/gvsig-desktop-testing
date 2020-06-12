@@ -1,10 +1,10 @@
-## HE00FB00CP020 Crear una columna nueva a partir de datos de columnas existentes 
+## HE00FB00CP020 Crear una columna calculada nueva a partir de datos de columnas existentes 
 
 [Primero compruebo si hay una peticion abierta](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=subject&op%5Bsubject%5D=%7E&v%5Bsubject%5D%5B%5D=HE00FB00CP020&f%5B%5D=&c%5B%5D=tracker&c%5B%5D=status&c%5B%5D=priority&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=updated_on&group_by=)
 
 ### Descripcion
 
-Cargamos el fichero de datos y creamos una columna nueva a partir de una columna de tipo string correctamente El resultado final es correcto.
+Cargamos el fichero de datos y creamos una columna nueva a partir de una columna de tipo string correctamente. El resultado final es correcto.
 
 ### Prerrequisitos
 
@@ -21,6 +21,9 @@ Cargamos el fichero de datos y creamos una columna nueva a partir de una columna
 4. Seleccionaremos la herramienta "Columnas calculadas"
 5. Pulsaremos el icono que permite crear una nueva columna calculada
 6. Crearemos una nueva columna llamada "Field"
+7. Rellenamos los campos de esa columna
+8. Pulsaremos el icono de "Evaluador de expresiones"
+9. Creamos la expresion  que rellene la columna
 7. Seleccionaremos el campo de tipo "String"
 8. Pulsaremos en el boton "Aceptar"
 
@@ -32,5 +35,5 @@ Como resultado se habra creado la columna field en la tabla de atributos
 
 En caso de que resultados sean incorrectos, puedes informar del problema en redmine de gvSIG desktop. Puedes encontrarlo en: https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues 
 
-[Abro una nueva publicacion con este test](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP020+Crear+una+columna+nueva+a+partir+de+datos+de+columnas+existentes)
+[Abro una nueva publicacion con este test](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP020+Crear+una+columna+calculada++nueva+a+partir+de+datos+de+columnas+existentes)
 [](readme.md)

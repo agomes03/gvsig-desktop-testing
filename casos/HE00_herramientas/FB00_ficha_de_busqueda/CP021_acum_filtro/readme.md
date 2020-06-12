@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y ordenamos el campo long en orden descendente de forma correcta El resultado final es correcto.
+Cargamos el fichero de datos y ordenamos el campo long en orden descendente de forma correcta. El resultado final es correcto.
 
 ### Prerrequisitos
 

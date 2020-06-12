@@ -19,12 +19,13 @@ Cargamos el fichero de datos y buscamos con el filtro de seleccion de atributos 
 2. Seleccionar menu *Tabla*/Busqueda por atributos
 3. Abriremos la opcion "Select attribute"
 4. Escribiremos la palabra "Decimal" en el buscador
-5. Pulsaremos en el filtro de seleccion y seleccionaremos el campo
-6. Pulsaremos en el boton "Aceptar"
+5. Pulsaremos en el icono del filtro de seleccion 
+6. Seleccionaremos el campo 
+7. Pulsaremos en el boton "Aceptar"
 
 ### Resultados esperados
 
-Como resultado de la seleccion obtendremos el campo "Decimal"
+Como resultado de la seleccion obtendremos el campo "Decimal" como campo sobre el que realizar la busqueda
 
 ### Reportar fallo
 

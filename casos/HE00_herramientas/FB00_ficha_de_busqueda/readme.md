@@ -62,7 +62,7 @@
 - [x] [Mostrar una columna que no se visualiza en la ficha de busqueda](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP019_sel_colum_visu)
 
 
-- [x] [Crear una columna nueva a partir de datos de columnas existentes](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP020_colum_calc)
+- [x] [Crear una columna calculada nueva a partir de datos de columnas existentes](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP020_colum_calc)
 
 
 - [x] [Ordenar un campo en orden descendente](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP021_acum_filtro)

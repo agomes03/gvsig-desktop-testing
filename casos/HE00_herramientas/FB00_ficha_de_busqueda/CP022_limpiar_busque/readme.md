@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos, seleccionamos un valor dentro del campo de tipo integer y limpiamos la busqueda de forma correcta El resultado final es correcto.
+Cargamos el fichero de datos, seleccionamos un valor dentro del campo de tipo integer y limpiamos la busqueda de forma correcta. El resultado final es correcto.
 
 ### Prerrequisitos
 
@@ -23,7 +23,7 @@ Cargamos el fichero de datos, seleccionamos un valor dentro del campo de tipo in
 
 ### Resultados esperados
 
-Como resultado se limpiara el parametro de busqueda "ID = 5"
+Como resultado se limpiara el parametro de busqueda "5"
 
 ### Reportar fallo
 

@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos e introducimos el campo de tipo long en la ficha de busqueda para poder realizar busquedas en ese campo El resultado final es correcto.
+Cargamos el fichero de datos e introducimos el campo de tipo long en la ficha de busqueda para poder realizar busquedas en ese campo de forma correcta. El resultado final es correcto.
 
 ### Prerrequisitos
 
@@ -20,9 +20,10 @@ Cargamos el fichero de datos e introducimos el campo de tipo long en la ficha de
 3. Abriremos las herramientas extra del panel de busqueda
 4. Seleccionaremos la herramienta "Seleccionar columnas a visualizar"
 5. Escribiremos "Long" en el buscador
-6. Pulsaremos el filtro de seleccion y Seleccionaremos el campo
-7. Pasaremos el campo seleccionado a la tabla de la derecha con las flechas
-8. Pulsaremos en el boton "Aceptar"
+6. Pulsaremos en el icono del filtro de seleccion 
+7. Seleccionaremos el campo
+8. Pasaremos el campo seleccionado a la tabla de la derecha con las flechas
+9. Pulsaremos en el boton "Aceptar"
 
 ### Resultados esperados
 
