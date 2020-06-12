@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y creamos una columna nueva a partir de una columna de tipo string correctamente. El resultado final es correcto.
+Cargamos el fichero de datos y creamos una columna calculada nueva a partir de un campo de tipo string y uno de tipo long de forma correcta. El resultado final es correcto.
 
 ### Prerrequisitos
 
@@ -25,6 +25,7 @@ Cargamos el fichero de datos y creamos una columna nueva a partir de una columna
 8. Pulsaremos el icono de "Evaluador de expresiones"
 9. Creamos la expresion  que rellene la columna
 7. Seleccionaremos el campo de tipo "String"
+8. Pulsaremos el boton "Aplicar cambios"
 8. Pulsaremos en el boton "Aceptar"
 
 ### Resultados esperados

@@ -27,7 +27,7 @@ Cargamos el fichero de datos e introducimos el campo de tipo long en la ficha de
 
 ### Resultados esperados
 
-Como resultado se visualizara el campo de tipo long en la tabla de atributos de la ficha de busqueda
+Como resultado se visualizara el campo de tipo long en la tabla de atributos de la ficha de busqueda que antes no se mostraba
 
 ### Reportar fallo
 
