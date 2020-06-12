@@ -32,5 +32,5 @@ Como resultado se visualizaran los registros de mayor a menor valor numerico en 
 
 En caso de que resultados sean incorrectos, puedes informar del problema en redmine de gvSIG desktop. Puedes encontrarlo en: https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues 
 
-[Abro una nueva publicacion con este test](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP021+Ordenar+un+campo+de+tipo+long+en+orden+descendente)
+[Abro una nueva publicacion con este test](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP021+Ordenar+un+campo+en+orden+descendente)
 [](readme.md)

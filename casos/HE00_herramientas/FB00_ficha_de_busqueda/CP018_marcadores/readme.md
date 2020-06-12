@@ -31,5 +31,5 @@ Como resultado obtendremos el parametro 2020-06-10 13:24 ("FB00_datos1 (2)"."ID"
 
 En caso de que resultados sean incorrectos, puedes informar del problema en redmine de gvSIG desktop. Puedes encontrarlo en: https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues 
 
-[Abro una nueva publicacion con este test](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP018+Añadir+a+marcadores+un+valor+de+un+campo+de+tipo+integer)
+[Abro una nueva publicacion con este test](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP018+Añadir+a+marcadores+un+valor+de+un+campo)
 [](readme.md)

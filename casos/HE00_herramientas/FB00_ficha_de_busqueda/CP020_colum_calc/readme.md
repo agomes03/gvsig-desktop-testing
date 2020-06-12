@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y creamos una columna nueva a partir de una columna de tipo string correctamente El resultado final no es correcto.
+Cargamos el fichero de datos y creamos una columna nueva a partir de una columna de tipo string correctamente El resultado final es correcto.
 
 ### Prerrequisitos
 

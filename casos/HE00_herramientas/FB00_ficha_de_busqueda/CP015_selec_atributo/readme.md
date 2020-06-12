@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y comprobamos que buscando un campo de tipo de decimal en la seleccion de atributos a traves del filtro de seleccion me escoge el campo correcto. El resultado final es correcto.
+Cargamos el fichero de datos y buscamos con el filtro de seleccion de atributos un campo de tipo de decimal de forma correcta. El resultado final es correcto.
 
 ### Prerrequisitos
 
@@ -30,5 +30,5 @@ Como resultado de la seleccion obtendremos el campo "Decimal"
 
 En caso de que resultados sean incorrectos, puedes informar del problema en redmine de gvSIG desktop. Puedes encontrarlo en: https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues 
 
-[Abro una nueva publicacion con este test](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP015+Probando+el+filtro+de+seleccion+de+un+atributo+de+tipo+decimal)
+[Abro una nueva publicacion con este test](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP015+Probando+el+filtro+de+seleccion+de+un+atributo)
 [](readme.md)

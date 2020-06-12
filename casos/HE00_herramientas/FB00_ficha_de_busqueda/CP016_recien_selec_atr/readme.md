@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y comprobamos que una vez buscado un campo de tipo de decimal en la seleccion de atributos me aparece el primero de la seleccion como el mas reciente utilizado. El resultado final no es correcto.
+Cargamos el fichero de datos y comprobamos que una vez buscado un campo de tipo de decimal en la seleccion de atributos me aparece el primero de la seleccion como el mas reciente utilizado. El resultado final es correcto.
 
 ### Prerrequisitos
 
@@ -30,5 +30,5 @@ Como resultado de la seleccion obtendremos el campo "Decimal" situado el primero
 
 En caso de que resultados sean incorrectos, puedes informar del problema en redmine de gvSIG desktop. Puedes encontrarlo en: https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues 
 
-[Abro una nueva publicacion con este test](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP016+Probando+el+historial+de+la+seleccion+de+un+atributo+de+tipo+decimal)
+[Abro una nueva publicacion con este test](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP016+Probando+el+historial+de+la+seleccion+de+un+atributo)
 [](readme.md)
