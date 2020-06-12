@@ -14,7 +14,7 @@ Cargamos el fichero de datos y comprobamos que se añade a marcadores un valor de
 
 ### Pasos
 
-1. Añadiremos la capa *.csv* y abriremos el fichero [FB_datos1.csv](https://github.com/agomes03/gvsig-desktop-testing/blob/master/data/HE00FB00/FB00_datos1.csv)
+1. Añadiremos la capa *.csv*
 2. Mostrar la tabla de atributos en la vista
 3. Seleccionar menu *Tabla*/Busqueda por atributos
 4. Seleccionaremos el campo "ID"

@@ -14,7 +14,7 @@ Cargamos el fichero de datos y ordenamos el campo long en orden descendente de f
 
 ### Pasos
 
-1. Añadiremos la capa *.csv* y abriremos el fichero [FB_datos1.csv](https://github.com/agomes03/gvsig-desktop-testing/blob/master/data/HE00FB00/FB00_datos1.csv)
+1. Añadiremos la capa *.csv*
 2. Mostrar la tabla de atributos en la vista
 2. Seleccionar menu *Tabla*/Busqueda por atributos
 3. Abriremos las herramientas extra del panel de busqueda
