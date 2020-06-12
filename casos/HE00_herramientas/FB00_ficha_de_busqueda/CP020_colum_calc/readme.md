@@ -29,7 +29,7 @@ Cargamos el fichero de datos y creamos una columna calculada nueva a partir de u
 
 ### Resultados esperados
 
-Como resultado se habra creado la columna field en la tabla de atributos
+Como resultado se habra creado la columna field en la tabla de atributos rellenada con el resultado de la expresion que hemos creado.
 
 ### Reportar fallo
 

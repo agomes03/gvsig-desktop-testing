@@ -27,7 +27,7 @@ Cargamos el fichero de datos y comprobamos que seleccionando un valor dentro del
 
 ### Resultados esperados
 
-Como resultado de la busqueda obtendremos 2 resultados con el "ID = 4", "ID = 5"
+Como resultado de la busqueda obtendremos 2 resultados con el "ID = 4", "ID = 5".
 
 
 ### Reportar fallo

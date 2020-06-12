@@ -24,7 +24,7 @@ Cargamos el fichero de datos y comprobamos que una vez buscado un campo de tipo 
 
 ### Resultados esperados
 
-Como resultado de la seleccion obtendremos el campo "Decimal" situado el primero como el mas reciente
+Como resultado de la seleccion obtendremos el campo "Decimal" situado el primero como el mas reciente.
 
 ### Reportar fallo
 

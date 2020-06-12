@@ -25,7 +25,7 @@ Cargamos el fichero de datos y comprobamos que se añade a marcadores un valor de
 
 ### Resultados esperados
 
-Como resultado obtendremos el parametro 2020-06-10 13:24 ("FB00_datos1 (2)"."ID" = 2) en marcadores
+Como resultado obtendremos el parametro 2020-06-10 13:24 ("FB00_datos1 (2)"."ID" = 2) en marcadores.
 
 ### Reportar fallo
 

@@ -26,7 +26,7 @@ Cargamos el fichero de datos y ordenamos el campo long en orden descendente de f
 
 ### Resultados esperados
 
-Como resultado se visualizaran los registros de mayor a menor valor numerico en el campo "long"
+Como resultado se visualizaran los registros de mayor a menor valor numerico en el campo "long".
 
 ### Reportar fallo
 

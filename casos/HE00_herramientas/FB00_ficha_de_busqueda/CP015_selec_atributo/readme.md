@@ -25,7 +25,7 @@ Cargamos el fichero de datos y buscamos con el filtro de seleccion de atributos 
 
 ### Resultados esperados
 
-Como resultado de la seleccion obtendremos el campo "Decimal" como campo sobre el que realizar la busqueda
+Como resultado de la seleccion obtendremos el campo "Decimal" como campo sobre el que realizar la busqueda.
 
 ### Reportar fallo
 

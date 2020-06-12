@@ -25,7 +25,7 @@ Cargamos el fichero de datos y comprobamos que una vez buscado un valor en un ca
 
 ### Resultados esperados
 
-Como resultado de la prueba obtendremos el parametro ("FB_datos1"."String"= 'yo7') en primer lugar
+Como resultado de la prueba obtendremos el parametro ("FB_datos1"."String"= 'yo7') en primer lugar.
 
 ### Reportar fallo
 

@@ -23,7 +23,7 @@ Cargamos el fichero de datos, seleccionamos un valor dentro del campo de tipo in
 
 ### Resultados esperados
 
-Como resultado se limpiara el parametro de busqueda "5"
+Como resultado se limpiara el parametro de busqueda "5".
 
 ### Reportar fallo
 
