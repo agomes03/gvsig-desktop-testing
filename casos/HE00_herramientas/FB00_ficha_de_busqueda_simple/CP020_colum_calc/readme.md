@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y creamos una columna calculada nueva a partir de un campo de tipo string y uno de tipo long de forma correcta. El resultado final es correcto.
+Cargamos el fichero de datos y creamos una columna calculada nueva a partir de un campo string y uno long de forma correcta. El resultado final es correcto.
 
 ### Prerrequisitos
 

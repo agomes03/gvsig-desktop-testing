@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y comprobamos que una vez buscado un valor en un campo de tipo de string aparece en el historial de busqueda como el mas reciente. El resultado final es correcto.
+Cargamos el fichero de datos y comprobamos que una vez buscado un valor en un campo string aparece en el historial de busqueda como el mas reciente. El resultado final es correcto.
 
 ### Prerrequisitos
 
