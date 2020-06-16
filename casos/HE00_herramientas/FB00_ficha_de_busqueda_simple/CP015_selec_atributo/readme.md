@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y la seleccion de atributos para realizar una busqueda sobre un campo decimal. Se probara al realizar esa busqueda que se queda como primera opcion y la mas reciente. El resultado final es correcto.
+Cargamos el fichero de datos y la seleccion de atributos para realizar una busqueda sobre un campo decimal. Se probara al realizar esa busqueda que se queda el campo como la primera opcion y la mas reciente. El resultado final es correcto.
 
 ### Prerrequisitos
 
