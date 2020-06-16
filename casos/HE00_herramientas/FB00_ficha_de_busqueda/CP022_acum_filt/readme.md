@@ -1,10 +1,10 @@
-## HE00FB00CP022 Limpiar los parametros de busqueda
+## HE00FB00CP022 Ordenar un campo en orden ascedente 
 
 [Primero compruebo si hay una peticion abierta](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=subject&op%5Bsubject%5D=%7E&v%5Bsubject%5D%5B%5D=HE00FB00CP022&f%5B%5D=&c%5B%5D=tracker&c%5B%5D=status&c%5B%5D=priority&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=updated_on&group_by=)
 
 ### Descripcion
 
-Cargamos el fichero de datos, seleccionamos un valor dentro del campo de tipo integer y limpiamos la busqueda de forma correcta. El resultado final es correcto.
+Cargamos el fichero de datos y ordenamos el campo long en orden descendente de forma correcta. El resultado final es correcto.
 
 ### Prerrequisitos
 
@@ -16,18 +16,21 @@ Cargamos el fichero de datos, seleccionamos un valor dentro del campo de tipo in
 
 1. Añadiremos la capa *.csv*
 2. Mostrar la tabla de atributos en la vista
-3. Seleccionar menu *Tabla*/Busqueda por atributos
-4. Seleccionaremos el campo "ID"
-6. Seleccionaremos el valor "5"
-7. Seleccionaremos el boton "Limpiar" 
+2. Seleccionar menu *Tabla*/Busqueda por atributos
+3. Abriremos las herramientas extra del panel de busqueda
+4. Seleccionaremos la herramienta "Ordenar por"
+5. Seleccionaremos el campo "long"
+6. Pasaremos el campo seleccionado a la tabla de la derecha con las flechas
+7. Seleccionaremos el boton de ordenacion ascedente situado debajo de la tabla 
+8. Pulsaremos en el boton "Aceptar"
 
 ### Resultados esperados
 
-Como resultado se limpiara el parametro de busqueda "5".
+Como resultado se visualizaran los registros de menor a mayor valor numerico en el campo "long".
 
 ### Reportar fallo
 
 En caso de que resultados sean incorrectos, puedes informar del problema en redmine de gvSIG desktop. Puedes encontrarlo en: https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues 
 
-[Abro una nueva publicacion con este test](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP022+Limpiar+los+parametros+de+busqueda)
+[Abro una nueva publicacion con este test](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP022+Ordenar+un+campo+en+orden+ascedente)
 [](readme.md)
