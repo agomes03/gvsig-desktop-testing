@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y comprobamos que seleccionando un valor dentro del campo de tipo double y otor valor dentro del campo de tipo byte me escoge el registro correcto. El resultado final es correcto.
+Cargamos el fichero de datos y comprobamos que seleccionando un valor dentro del campo double y otor valor dentro del campo byte me escoge el registro correcto. El resultado final es correcto.
 
 ### Prerrequisitos
 

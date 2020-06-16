@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y comprobamos que seleccionando un valor dentro del campo de tipo string me escoge el registro correcto. El resultado final es correcto.
+Cargamos el fichero de datos y comprobamos que seleccionando un valor dentro del campo string me escoge el registro correcto. El resultado final es correcto.
 
 ### Prerrequisitos
 
