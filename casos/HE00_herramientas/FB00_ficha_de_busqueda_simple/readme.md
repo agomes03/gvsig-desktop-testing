@@ -38,13 +38,13 @@
 - [x] [Busqueda de dos campos double y byte](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP014_2c_OR_dbl_byt)
 
 
-- [x] [filtro de Seleccion de un atributo](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP015_selec_atributo)
+- [x] [Seleccion de un atributo](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP015_selec_atributo)
 
 
 - [x] [historial de busqueda](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP017_historial_busque)
 
 
-- [x] [Añadir a marcadores un valor de un campo](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP018_marcadores)
+- [x] [Añadir a marcadores](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP018_marcadores)
 
 
 - [x] [Mostrar una columna que no se visualiza en la ficha de busqueda](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP019_sel_colum_visu)
