@@ -59,5 +59,5 @@
 - [x] [Ordenar varios campos](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP022_acum_filt)
 
  
-- [x] [Limpiar los parametros de busqueda](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP022_limpiar_busque)
+- [x] [Limpiar los parametros de busqueda](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP023_limpiar_busque)
 
