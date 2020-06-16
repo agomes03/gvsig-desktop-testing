@@ -19,7 +19,7 @@ Cargamos el fichero de datos y ordenamos el campo long en orden ascendente de fo
 2. Seleccionar menu *Tabla*/Busqueda por atributos
 3. Abriremos las herramientas extra del panel de busqueda
 4. Seleccionaremos la herramienta "Ordenar por"
-5. Seleccionaremos el campo "long"
+5. Seleccionaremos el campo "long" de la lista de campos
 6. Pasaremos el campo seleccionado a la tabla de la derecha con las flechas
 7. Seleccionaremos el boton de ordenacion ascedente situado debajo de la tabla 
 8. Pulsaremos en el boton "Aceptar"

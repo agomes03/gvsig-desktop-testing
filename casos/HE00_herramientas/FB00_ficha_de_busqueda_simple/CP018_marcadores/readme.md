@@ -17,7 +17,7 @@ Cargamos el fichero de datos y comprobamos que se añade a marcadores un valor de
 1. Añadiremos la capa *.csv*
 2. Mostrar la tabla de atributos en la vista
 3. Seleccionar menu *Tabla*/Busqueda por atributos
-4. Seleccionaremos el campo "ID"
+4. Seleccionaremos el campo "ID" de la lista de campos
 5. Seleccionaremos el valor "2"
 6. Pulsaremos en el boton "Añadir a marcadores"
 7. Pulsaremos en el boton "Aceptar"

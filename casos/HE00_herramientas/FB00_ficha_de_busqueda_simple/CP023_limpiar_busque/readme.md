@@ -17,7 +17,7 @@ Cargamos el fichero de datos, seleccionamos un valor dentro del campo de tipo in
 1. Añadiremos la capa *.csv*
 2. Mostrar la tabla de atributos en la vista
 3. Seleccionar menu *Tabla*/Busqueda por atributos
-4. Seleccionaremos el campo "ID"
+4. Seleccionaremos el campo "ID" de la lista de campos
 6. Seleccionaremos el valor "5"
 7. Seleccionaremos el boton "Limpiar" 
 
