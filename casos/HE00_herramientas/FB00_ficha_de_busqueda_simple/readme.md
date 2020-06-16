@@ -56,7 +56,7 @@
 - [x] [Ordenar un campo en orden descendente](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP021_acum_filtro)
 
 
-- [x] [Ordenar un campo en orden ascendente](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP022_acum_filt)
+- [x] [Ordenar varios campos](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP022_acum_filt)
 
  
 - [x] [Limpiar los parametros de busqueda](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP022_limpiar_busque)

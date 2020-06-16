@@ -1,10 +1,10 @@
-## HE00FB00CP022 Ordenar un campo en orden ascedente 
+## HE00FB00CP022 Ordenar varios campos 
 
 [Primero compruebo si hay una peticion abierta](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=subject&op%5Bsubject%5D=%7E&v%5Bsubject%5D%5B%5D=HE00FB00CP022&f%5B%5D=&c%5B%5D=tracker&c%5B%5D=status&c%5B%5D=priority&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=updated_on&group_by=)
 
 ### Descripcion
 
-Cargamos el fichero de datos y ordenamos el campo long en orden ascendente de forma correcta. El resultado final es correcto.
+Cargamos el fichero de datos y ordenamos los campos long, byte y string en orden ascendente de forma correcta. El resultado final es correcto.
 
 ### Prerrequisitos
 
@@ -19,9 +19,13 @@ Cargamos el fichero de datos y ordenamos el campo long en orden ascendente de fo
 2. Seleccionar menu *Tabla*/Busqueda por atributos
 3. Abriremos las herramientas extra del panel de busqueda
 4. Seleccionaremos la herramienta "Ordenar por"
+5. Utilizamos la barra del filtro para buscar "Long"
+6. Pulsaremos en el icono del "filtro de seleccion"
 5. Seleccionaremos el campo "long" de la lista de campos
 6. Pasaremos el campo seleccionado a la tabla de la derecha con las flechas
-7. Seleccionaremos el boton de ordenacion ascedente situado debajo de la tabla 
+7. Repetiremos la misma accion para los campos "byte" y "string"
+8. Seleccionaremos con las flechas de subir y bajar la posicion en la que queremos los campos 
+9. Pulsaremos el icono de "Orden ascendente"
 8. Pulsaremos en el boton "Aceptar"
 
 ### Resultados esperados
@@ -32,5 +36,5 @@ Como resultado se visualizaran los registros de menor a mayor valor numerico en 
 
 En caso de que resultados sean incorrectos, puedes informar del problema en redmine de gvSIG desktop. Puedes encontrarlo en: https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues 
 
-[Abro una nueva publicacion con este test](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP022+Ordenar+un+campo+en+orden+ascedente)
+[Abro una nueva publicacion con este test](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP022+Ordenar+varios+campos)
 [](readme.md)
