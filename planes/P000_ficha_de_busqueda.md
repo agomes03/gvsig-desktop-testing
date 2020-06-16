@@ -47,4 +47,6 @@
 
 {% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda/CP021_acum_filtro/readme.md %}
 
-{% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda/CP022_limpiar_busque/readme.md %}
+{% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda/CP022_acum_filt/readme.md %}
+
+{% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda/CP023_limpiar_busque/readme.md %}
