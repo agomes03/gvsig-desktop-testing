@@ -20,6 +20,8 @@ Cargamos el fichero de datos y comprobamos que se añade a marcadores un valor de
 4. Seleccionaremos el campo "ID" de la lista de campos
 5. Seleccionaremos el valor "2"
 6. Pulsaremos en el boton "Añadir a marcadores"
+7. Seleccionaremos el marcador que nos ha creado
+7. Pulsaremos en el boton "Modify"
 7. Modificaremos el nombre del marcador de "2020-06-16 18:35 ("FB00_datos1 (2)"."ID" = 2)" a "("ID" = 2)"
 8. Pulsaremos en el boton "Aceptar"
 
