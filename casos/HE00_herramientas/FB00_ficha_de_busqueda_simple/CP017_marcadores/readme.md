@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y comprobamos que se añade a marcadores un valor del campo correctamente. El resultado final es correcto.
+Cargamos el fichero de datos y comprobamos que se añade a marcadores un valor de un campo de forma correcta. El resultado final es correcto.
 
 ### Prerrequisitos
 
