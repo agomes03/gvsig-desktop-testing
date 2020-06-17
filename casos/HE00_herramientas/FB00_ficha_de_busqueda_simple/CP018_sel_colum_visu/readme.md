@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos e introducimos el campo long en la ficha de busqueda para poder realizar busquedas en ese campo de forma correcta. El resultado final es correcto.
+Cargamos el fichero de datos e introducimos un campo que no se visualiza en la ficha de busqueda para poder realizar busquedas en ese campo de forma correcta. El resultado final es correcto.
 
 ### Prerrequisitos
 

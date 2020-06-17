@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos, seleccionamos un valor dentro del campo integer y limpiamos la busqueda de forma correcta. El resultado final es correcto.
+Cargamos el fichero de datos, seleccionamos un valor dentro de un campo y limpiamos la busqueda de forma correcta. El resultado final es correcto.
 
 ### Prerrequisitos
 

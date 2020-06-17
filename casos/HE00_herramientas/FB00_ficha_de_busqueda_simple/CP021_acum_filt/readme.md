@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y ordenamos los campos long, byte y string en orden ascendente de forma correcta. El resultado final es correcto.
+Cargamos el fichero de datos y ordenamos tres campos, en orden ascendente y de forma correcta. El resultado final es correcto.
 
 ### Prerrequisitos
 
@@ -30,7 +30,7 @@ Cargamos el fichero de datos y ordenamos los campos long, byte y string en orden
 
 ### Resultados esperados
 
-Como resultado encontraremos los campos long, byte y string ordenados segun la posicion que le hemos asignado y en sentido ascendente de menor a mayor valor numerico. 
+Como resultado encontraremos los tres campos ordenados segun la posicion que le hemos asignado y en sentido ascendente de menor a mayor valor numerico. 
 
 ### Reportar fallo
 
