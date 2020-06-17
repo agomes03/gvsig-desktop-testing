@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y comprobamos que se elimina de los marcadores un valor del campo integer correctamente. El resultado final es correcto.
+Cargamos el fichero de datos y comprobamos que se elimina correctamente de la lista de marcadores un valor del campo integer que estaba añadido. El resultado final es correcto.
 
 ### Prerrequisitos
 
