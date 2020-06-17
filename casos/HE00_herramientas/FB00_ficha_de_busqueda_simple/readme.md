@@ -41,23 +41,23 @@
 - [x] [Seleccion de un atributo](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP015_selec_atributo)
 
 
-- [x] [historial de busqueda](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP017_historial_busque)
+- [x] [historial de busqueda](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP016_historial_busque)
 
 
-- [x] [Añadir a marcadores](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP018_marcadores)
+- [x] [Añadir a marcadores](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP017_marcadores)
 
 
-- [x] [Mostrar una columna que no se visualiza en la ficha de busqueda](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP019_sel_colum_visu)
+- [x] [Mostrar una columna que no se visualiza en la ficha de busqueda](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP018_sel_colum_visu)
 
 
-- [x] [Crear una columna calculada nueva a partir de datos de columnas existentes](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP020_colum_calc)
+- [x] [Crear una columna calculada nueva a partir de datos de columnas existentes](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP019_colum_calc)
 
 
-- [x] [Ordenar un campo en orden descendente](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP021_acum_filtro)
+- [x] [Ordenar un campo en orden descendente](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP020_acum_filtro)
 
 
-- [x] [Ordenar varios campos](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP022_acum_filt)
+- [x] [Ordenar varios campos](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP021_acum_filt)
 
  
-- [x] [Limpiar los parametros de busqueda](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP023_limpiar_busque)
+- [x] [Limpiar los parametros de busqueda](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP022_limpiar_busque)
 

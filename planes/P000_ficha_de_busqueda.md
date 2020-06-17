@@ -35,21 +35,19 @@
 
 {% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda/CP015_selec_atributo/readme.md %}
 
-{% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda/CP016_recien_selec_atr/readme.md %}
+{% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda/CP016_historial_busque/readme.md %}
 
-{% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda/CP017_historial_busque/readme.md %}
+{% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda/CP017_marcadores/readme.md %}
 
-{% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda/CP018_marcadores/readme.md %}
+{% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda/CP018_sel_colum_visu/readme.md %}
 
-{% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda/CP019_sel_colum_visu/readme.md %}
+{% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda/CP019_colum_calc/readme.md %}
 
-{% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda/CP020_colum_calc/readme.md %}
+{% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda/CP020_acum_filtro/readme.md %}
 
-{% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda/CP021_acum_filtro/readme.md %}
+{% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda/CP021_acum_filt/readme.md %}
 
-{% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda/CP022_acum_filt/readme.md %}
-
-{% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda/CP023_limpiar_busque/readme.md %}
+{% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda/CP022_limpiar_busque/readme.md %}
 
 {% include ..casos/HE00_herramientas/FB01_ficha_de_busqueda_avanzada/CP001_cons_expres/readme.md %}
 
