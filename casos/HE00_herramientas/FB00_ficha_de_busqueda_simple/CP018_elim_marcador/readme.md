@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y comprobamos que se elimina correctamente de la lista de marcadores un valor de una columna que se encontraba en la lista. El resultado final es correcto.
+Cargamos el fichero de datos y comprobamos que se elimina un marcador de la lista de marcadores. El resultado final es correcto.
 
 ### Prerrequisitos
 
@@ -18,6 +18,7 @@ Cargamos el fichero de datos y comprobamos que se elimina correctamente de la li
 2. Mostrar la tabla de atributos en la vista
 3. Seleccionar menu *Tabla*/Busqueda por atributos
 4. Seleccionaremos el campo "ID" de la lista de campos
+5. Seleccionaremos el operador "Igual a" de la lista de operadores logicos
 5. Seleccionaremos el valor "2"
 6. Pulsaremos en el boton "Añadir a marcadores"
 7. Seleccionaremos el marcador que se nos ha creado 
@@ -27,7 +28,9 @@ Cargamos el fichero de datos y comprobamos que se elimina correctamente de la li
 
 ### Resultados esperados
 
-Como resultado se nos eliminara el marcador que habiamos creado de la lista de marcadores.
+- Como resultado del paso 6 obtendremos el parametro "2020-06-16 18:35 ("FB00_datos1 (2)"."ID" = 2)" añadido a marcadores
+
+- Como resultado final se nos habra eliminado el parametro "2020-06-16 18:35 ("FB00_datos1 (2)"."ID" = 2)" de la lista de marcadores
 
 ### Reportar fallo
 

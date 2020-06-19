@@ -53,10 +53,10 @@
 - [x] [Crear una columna calculada nueva a partir de datos de columnas existentes](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP019_colum_calc)
 
 
-- [x] [Ordenar un campo en orden descendente](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP020_acum_filtro)
+- [x] [Ordenar un campo en orden descendente](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP020_orden_descenden)
 
 
-- [x] [Ordenar varios campos](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP021_acum_filt)
+- [x] [Ordenar varios campos](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP021_orden_varios)
 
  
 - [x] [Limpiar los parametros de busqueda](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda/CP022_limpiar_busque)

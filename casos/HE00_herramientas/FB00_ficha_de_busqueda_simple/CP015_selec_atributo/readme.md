@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y la seleccion de atributos para realizar una busqueda sobre un campo. Se probara al realizar esa busqueda que se queda el campo como la primera opcion y la mas reciente. El resultado final es correcto.
+Cargamos el fichero de datos y la seleccion de atributos para realizar una busqueda sobre un campo. Se probará al realizar esa busqueda que se queda el campo buscado como la primera opcion y la mas reciente. El resultado final es correcto.
 
 ### Prerrequisitos
 
@@ -23,25 +23,18 @@ Cargamos el fichero de datos y la seleccion de atributos para realizar una busqu
 7. Seleccionaremos el campo "Decimal" de la lista de campos
 8. Pulsaremos en el boton "Aceptar"
 9. Seleccionaremos el operador "Igual a" de la lista de operadores logicos
-10. Pulsaremos en el boton "Buscar"
-11. Volveremos a abrir la opcion "Select attribute"
+10. Seleccionaremos el valor "456.123"
+11. Pulsaremos en el boton "Buscar"
+12. Volveremos a abrir la opcion "Select attribute"
  
 
 ### Resultados esperados
 
-Como resultado del paso 8 obtendremos el campo en la seleccion de busqueda, seguidamente como resultado del paso 10 obtendremos 9 resultados con los "ID":
+- Como resultado del paso 8 obtendremos el campo en la seleccion de busqueda.
 
-- 1
-- 2
-- 3
-- 4
-- 5
-- 6
-- 7
-- 8
-- 9
+- Como resultado del paso 10 obtendremos 9 resultados con los "ID"=1,"ID"=2,"ID"=3,"ID"=4,"ID"=5,"ID"=6,"ID"=7,"ID"=8,"ID"=9.
 
-y como resultado final observaremos que el campo se encuentra el primero en la seleccion de atributos
+- Como resultado final observaremos que el campo se encuentra el primero en la seleccion de atributos.
 
 ### Reportar fallo
 

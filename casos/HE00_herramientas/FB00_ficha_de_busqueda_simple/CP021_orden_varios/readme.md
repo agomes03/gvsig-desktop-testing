@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y ordenamos tres campos, en orden ascendente y de forma correcta. El resultado final es correcto.
+Cargamos el fichero de datos y ordenamos tres campos, en orden ascendente. El orden de los campo sera; en primer lugar "byte", despues "string" y por ultimo "long" El resultado final es correcto.
 
 ### Prerrequisitos
 
@@ -21,16 +21,17 @@ Cargamos el fichero de datos y ordenamos tres campos, en orden ascendente y de f
 4. Seleccionaremos la herramienta "Ordenar por"
 5. Utilizamos la barra del filtro para buscar "Long"
 6. Pulsaremos en el icono del "filtro de seleccion"
-5. Seleccionaremos el campo "long" de la lista de campos
-6. Pasaremos el campo seleccionado a la tabla de la derecha con las flechas
-7. Repetiremos la misma accion para los campos "byte" y "string"
-8. Seleccionaremos con las flechas de subir y bajar la posicion en la que queremos los campos 
-9. Pulsaremos el icono de "Orden ascendente"
-8. Pulsaremos en el boton "Aceptar"
+7. Seleccionaremos el campo "long" de la lista de campos
+8. Pasaremos el campo seleccionado a la tabla de la derecha con las flechas
+9. Repetiremos la misma accion para los campos "byte" y "string"
+10. Seleccionaremos el campo "Long" y lo moveremos hasta la tercera posicion con la flecha de bajar los campos 
+11. Seleccionaremos el campo "Byte" y lo moveremos hasta la primera posicion con la flecha de subir los campos
+12. Pulsaremos el icono de "Orden ascendente"
+13. Pulsaremos en el boton "Aceptar"
 
 ### Resultados esperados
 
-Como resultado encontraremos los tres campos ordenados segun la posicion que le hemos asignado y en sentido ascendente de menor a mayor valor numerico. 
+Como resultado encontraremos los tres campos ordenados con el campo "byte" en primer lugar, seguido del campo "string y por ultimo el campo "long" y en sentido ascendente comenzando por el "ID"= 1 y acabando por el "ID"= 9. 
 
 ### Reportar fallo
 

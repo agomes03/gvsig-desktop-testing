@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y comprobamos que se añade a marcadores un valor de un campo de forma correcta. El resultado final es correcto.
+Cargamos el fichero de datos y realizamos una busqueda a la cual añadiremos a marcadores para posteriormente modificarlo de forma correcta. El resultado final es correcto.
 
 ### Prerrequisitos
 
@@ -18,17 +18,20 @@ Cargamos el fichero de datos y comprobamos que se añade a marcadores un valor de
 2. Mostrar la tabla de atributos en la vista
 3. Seleccionar menu *Tabla*/Busqueda por atributos
 4. Seleccionaremos el campo "ID" de la lista de campos
-5. Seleccionaremos el valor "2"
-6. Pulsaremos en el boton "Añadir a marcadores"
-7. Seleccionaremos el marcador que nos ha creado
-7. Pulsaremos en el boton "Modify"
-7. Modificaremos el nombre del marcador de "2020-06-16 18:35 ("FB00_datos1 (2)"."ID" = 2)" a "("ID" = 2)"
-8. Pulsaremos en el boton "Aceptar"
+5. Seleccionaremos el operador "Igual a" de la lista de operadores logicos
+6. Seleccionaremos el valor "2"
+7. Pulsaremos en el boton "Añadir a marcadores"
+8. Seleccionaremos el marcador que nos ha creado
+9. Pulsaremos en el boton "Modify"
+10. Modificaremos el nombre del marcador de "2020-06-16 18:35 ("FB00_datos1 (2)"."ID" = 2)" a "("ID" = 2)"
+11. Pulsaremos en el boton "Aceptar"
 
 
 ### Resultados esperados
 
-Como resultado obtendremos el parametro "("ID = 2)" modificado en marcadores.
+- Como resultado del paso 6 obtendremos el parametro "2020-06-16 18:35 ("FB00_datos1 (2)"."ID" = 2)" añadido a marcadores
+
+- Como resultado final obtendremos el parametro "("ID" = 2)" modificado en marcadores
 
 ### Reportar fallo
 
