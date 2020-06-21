@@ -16,17 +16,15 @@ Cargamos el fichero de datos y acumularemos busquedas de distintos campos. El re
 
 1. Añadiremos la capa *.csv*
 2. Mostrar la tabla de atributos en la vista
-2. Seleccionar menu *Tabla*/Busqueda por atributos
-3. 
-4. Seleccionaremos la herramienta "Ordenar por"
-5. Utilizamos la barra del filtro para buscar "Long"
-6. Pulsaremos en el icono del "filtro de seleccion"
-5. Seleccionaremos el campo "long" de la lista de campos
-6. Pasaremos el campo seleccionado a la tabla de la derecha con las flechas
-7. Repetiremos la misma accion para los campos "byte" y "string"
-8. Seleccionaremos con las flechas de subir y bajar la posicion en la que queremos los campos 
-9. Pulsaremos el icono de "Orden ascendente"
-8. Pulsaremos en el boton "Aceptar"
+3. Seleccionar menu *Tabla*/Busqueda por atributos
+4. Seleccionaremos el campo "String" de la lista de campos
+5. Seleccionaremos el valor "yo1"
+6. Escogeremos el operador logico "O" de la lista de operadores logicos
+7. Seleccionaremos el segundo campo "ID" de la lista de campos
+8. Seleccionaremos el valor "3"
+9. Seleccionaremos el operador "Igual a" de la lista de operadores logicos para los dos campos
+10. Pulsaremos en el boton "Buscar"
+
 
 ### Resultados esperados
 
