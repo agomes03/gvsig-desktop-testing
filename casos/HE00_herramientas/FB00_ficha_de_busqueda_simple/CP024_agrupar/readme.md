@@ -22,11 +22,11 @@ Cargamos el fichero de datos y agruparemos varios campos de forma correcta. El r
 
 ### Resultados esperados
 
-Como resultado nos aparecera una ventana que dira "_the_group_function_is_not_available_for_this_table". 
+Como resultado esta tabla de datos no permite la agrupacion por campos, con lo cual, nos aparecera una ventana emergente que dira "_the_group_function_is_not_available_for_this_table". 
 
 ### Reportar fallo
 
 En caso de que resultados sean incorrectos, puedes informar del problema en redmine de gvSIG desktop. Puedes encontrarlo en: https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues 
 
-[Abro una nueva publicacion con este test](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP024+Acumular+filtros)
+[Abro una nueva publicacion con este test](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=HE00FB00CP024+Agrupar+por+campos)
 [](readme.md)
