@@ -68,6 +68,9 @@
 - [x] [Agrupar por campos](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda_simple/CP024_agrupar)
 
 
+- [ ] [Agrupar por H2spatial](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda_simple/CP025_agrupar_H2spa)
+
+
 - [x] [Ordenar un campo en orden descendente](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda_simple/CP026_orden_descenden)
 
 
