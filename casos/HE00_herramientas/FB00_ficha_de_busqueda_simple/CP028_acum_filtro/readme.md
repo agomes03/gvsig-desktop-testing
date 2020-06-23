@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y acumularemos busquedas de distintos campos. El resultado final es correcto.
+Cargamos el fichero de datos y acumularemos distintas busquedas de distintos campos. El resultado final es correcto.
 
 ### Prerrequisitos
 
@@ -24,11 +24,34 @@ Cargamos el fichero de datos y acumularemos busquedas de distintos campos. El re
 8. Seleccionaremos el valor "3"
 9. Seleccionaremos el operador "Igual a" de la lista de operadores logicos para los dos campos
 10. Pulsaremos en el boton "Buscar"
+11. Pulsaremos en el icono de "Acumular filtros"
+12. Una vez añadida la condicion pulsaremos en el icono de "ver filtro acumulado"
+13. Comprobaremos que la condicion que hemos añadido es correcta
+14. Pulsaremos en el boton "Aceptar"
+15. Seleccionaremos el campo "byte" de la lista de campos
+16. Seleccionaremos el valor "20"
+17. Seleccionaremos el operador "Igual a" de la lista de operadores logicos
+18. Pulsaremos en el boton "Buscar"
+19. Pulsaremos en el icono de "Acumular filtros"
+20. Una vez añadida la condicion pulsaremos en el icono de "ver filtro acumulado"
+21. Volveremos a comprobar que la expresion final es correcta
+22. Pulsaremos en el boton "Aceptar"
+23. Pulsaremos el icono de "Eliminar el filtro acumulado"
+
 
 
 ### Resultados esperados
 
-Como resultado encontraremos los tres campos ordenados segun la posicion que le hemos asignado y en sentido ascendente de menor a mayor valor numerico. 
+- Como resultado de la busqueda del paso 10 obtendremos 2 resultados con el "ID" = 1 e "ID" = 3
+
+- Como resutado del paso 14 obtenemos la expresion (("FB00_datos1 (4)"."String" = 'yo1') OR ("FB00_datos1 (4)"."ID" = 3))
+
+- Como resultado de la busqueda del paso 18 obtendremos 1 resultado con el "ID" = 2
+
+- Como resultado del paso 22 obtenemos la expresion final ( ("FB00_datos1 (4)"."String" = 'yo1') OR ("FB00_datos1 (4)"."ID" = 3)) AND 
+( ("FB00_datos1 (4)"."Byte" = 20))
+
+- Como resultado final del paso 23 se nos habran eliminado todas las buquedas que habiamos acumulado del icono de acumulacion de filtros
 
 ### Reportar fallo
 
