@@ -50,13 +50,13 @@
 - [x] [Eliminar marcadores](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda_simple/CP018_elim_marcador)
 
 
-- [x] [Usar etiquetas](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda_simple/CP019_usar_etique)
+- [ ] [Usar etiquetas](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda_simple/CP019_usar_etique)
 
 
-- [x] [Usar nombres](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda_simple/CP020_usar_nombre)
+- [ ] [Usar nombres](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda_simple/CP020_usar_nombre)
 
 
-- [x] [Usar etiquetas y nombres](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda_simple/CP021_usar_etiquetnomb)
+- [ ] [Usar etiquetas y nombres](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda_simple/CP021_usar_etiquetnomb)
 
 
 - [x] [Mostrar una columna que no se visualiza en la ficha de busqueda](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda_simple/CP022_sel_colum_visu)
