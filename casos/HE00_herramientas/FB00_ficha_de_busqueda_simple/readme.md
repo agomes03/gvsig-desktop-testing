@@ -77,7 +77,7 @@
 - [x] [Ordenar varios campos](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda_simple/CP027_orden_varios)
 
 
-- [x] [Acumular filtros](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda_simple/CP028_acum_filtro)
+- [x] [Acumular filtros para busquedas de 5 campos](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda_simple/CP028_acum_filtro)
 
  
 - [x] [Limpiar los parametros de busqueda](https://github.com/agomes03/gvsig-desktop-testing/tree/master/casos/HE00_herramientas/FB00_ficha_de_busqueda_simple/CP029_limpiar_busque)

@@ -53,6 +53,8 @@
 
 {% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda_simple/CP024_agrupar/readme.md %}
 
+{% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda_simple/CP025_agrupar_H2spa/readme.md %}
+
 {% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda_simple/CP026_orden_descenden/readme.md %}
 
 {% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda_simple/CP027_orden_varios/readme.md %}

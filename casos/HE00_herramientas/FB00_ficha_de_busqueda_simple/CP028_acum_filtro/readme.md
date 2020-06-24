@@ -60,7 +60,7 @@ Cargamos el fichero de datos y acumularemos cinco busquedas distintas de cinco c
 
 - Como resultado de la busqueda del paso 29 obtendremos 1 resultado con el "ID" = 1.
 
-- Como resultado del paso 30 se nos eliminaran todas las condiciones que habiamos acumulado
+- Como resultado del paso 30 se nos eliminaran todas las condiciones que habiamos acumulado.
 
 ### Reportar fallo
 
