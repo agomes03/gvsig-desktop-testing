@@ -60,9 +60,3 @@
 {% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda_simple/CP028_acum_filtro/readme.md %}
 
 {% include ../casos/HE00_herramientas/FB00_ficha_de_busqueda_simple/CP029_limpiar_busque/readme.md %}
-
-{% include ..casos/HE00_herramientas/FB01_ficha_de_busqueda_avanzada/CP002_hist_busque/readme.md %}
-
-{% include ..casos/HE00_herramientas/FB01_ficha_de_busqueda_avanzada/CP003_marcadores/readme.md %}
-
-{% include ..casos/HE00_herramientas/FB01_ficha_de_busqueda_avanzada/CP004_limp_busqueda/readme.md %}

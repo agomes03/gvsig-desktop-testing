@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y agruparemos varios campos de forma correcta. El resultado final es correcto.
+Cargamos el fichero de datos y agruparemos varios campos. El resultado final es correcto.
 
 ### Prerrequisitos
 
@@ -22,7 +22,7 @@ Cargamos el fichero de datos y agruparemos varios campos de forma correcta. El r
 
 ### Resultados esperados
 
-Como resultado esta tabla de datos no permite la agrupacion por campos, con lo cual, nos aparecera una ventana emergente que dira "_the_group_function_is_not_available_for_this_table". 
+Como resultado esta tabla de datos no permite la agrupacion por campos, con lo cual, nos aparecera una ventana emergente que dira "_the_group_function_is_not_available_for_this_table". Esta opcion solo aparece con tablas de bases de datos.
 
 ### Reportar fallo
 

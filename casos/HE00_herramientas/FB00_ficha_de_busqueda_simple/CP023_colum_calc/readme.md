@@ -29,7 +29,17 @@ Cargamos el fichero de datos y creamos una columna calculada nueva a partir de u
 
 ### Resultados esperados
 
-Como resultado se habra creado la columna field en la tabla de atributos rellenada con el resultado de la expresion que hemos creado.
+Como resultado se habra creado la columna llamada field en la tabla de atributos rellena con el resultado de la expresion que hemos creado. Como resultado de la busqueda obtendremos 9 elementos:
+
+- yo11000
+- yo22000
+- yo33000
+- yo44000
+- yo55000
+- yo66000
+- yo77000
+- yo88000
+- yo99000
 
 ### Reportar fallo
 

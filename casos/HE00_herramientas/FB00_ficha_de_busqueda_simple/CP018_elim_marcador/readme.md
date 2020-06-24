@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y comprobamos que se elimina un marcador de la lista de marcadores. El resultado final es correcto.
+Cargamos el fichero de datos, creamos un marcador y comprobamos que este marcador se elimina de la lista de marcadores. El resultado final es correcto.
 
 ### Prerrequisitos
 
@@ -28,9 +28,9 @@ Cargamos el fichero de datos y comprobamos que se elimina un marcador de la list
 
 ### Resultados esperados
 
-- Como resultado del paso 6 obtendremos el parametro "2020-06-16 18:35 ("FB00_datos1 (2)"."ID" = 2)" añadido a marcadores
+- Como resultado del paso 7 obtendremos el parametro "2020-06-16 18:35 ("FB00_datos1 (2)"."ID" = 2)" añadido a marcadores
 
-- Como resultado final se nos habra eliminado el parametro "2020-06-16 18:35 ("FB00_datos1 (2)"."ID" = 2)" de la lista de marcadores
+- Como resultado del paso 9 se nos habra eliminado el parametro "2020-06-16 18:35 ("FB00_datos1 (2)"."ID" = 2)" de la lista de marcadores
 
 ### Reportar fallo
 

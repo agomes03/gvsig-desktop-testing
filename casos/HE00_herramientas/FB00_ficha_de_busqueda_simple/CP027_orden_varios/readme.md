@@ -23,7 +23,7 @@ Cargamos el fichero de datos y ordenamos tres campos, en orden ascendente. El or
 6. Pulsaremos en el icono del "filtro de seleccion"
 7. Seleccionaremos el campo "long" de la lista de campos
 8. Pasaremos el campo seleccionado a la tabla de la derecha con las flechas
-9. Repetiremos la misma accion para los campos "byte" y "string"
+9. Repetiremos la misma accion para los campos "string" y "byte"
 10. Seleccionaremos el campo "Long" y lo moveremos hasta la tercera posicion con la flecha de bajar los campos 
 11. Seleccionaremos el campo "Byte" y lo moveremos hasta la primera posicion con la flecha de subir los campos
 12. Pulsaremos el icono de "Orden ascendente"
@@ -31,7 +31,7 @@ Cargamos el fichero de datos y ordenamos tres campos, en orden ascendente. El or
 
 ### Resultados esperados
 
-Como resultado encontraremos los tres campos ordenados con el campo "byte" en primer lugar, seguido del campo "string y por ultimo el campo "long" y en sentido ascendente comenzando por el "ID"= 1 y acabando por el "ID"= 9. 
+Como resultado encontraremos los tres campos ordenados con el campo "byte" en primer lugar, seguido del campo "string y por ultimo el campo "long" y en sentido ascendente comenzando por el "ID"= 1 y acabando por el "ID"= " ". 
 
 ### Reportar fallo
 

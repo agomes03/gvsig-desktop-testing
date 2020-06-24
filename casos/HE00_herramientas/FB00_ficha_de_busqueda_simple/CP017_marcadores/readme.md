@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y realizamos una busqueda a la cual añadiremos a marcadores para posteriormente modificarlo de forma correcta. El resultado final es correcto.
+Cargamos el fichero de datos y realizamos una busqueda. Dicha busqueda añadiremos a marcadores para posteriormente modificarlo de forma correcta. El resultado final es correcto.
 
 ### Prerrequisitos
 
@@ -29,9 +29,9 @@ Cargamos el fichero de datos y realizamos una busqueda a la cual añadiremos a ma
 
 ### Resultados esperados
 
-- Como resultado del paso 6 obtendremos el parametro "2020-06-16 18:35 ("FB00_datos1 (2)"."ID" = 2)" añadido a marcadores
+- Como resultado del paso 7 obtendremos el parametro "2020-06-16 18:35 ("FB00_datos1 (2)"."ID" = 2)" añadido a marcadores
 
-- Como resultado final obtendremos el parametro "("ID" = 2)" modificado en marcadores
+- Como resultado del paso 11 obtendremos en los marcadores el marcador modificado "("ID" = 2)"
 
 ### Reportar fallo
 

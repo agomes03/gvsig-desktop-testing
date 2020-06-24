@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y comprobamos que una vez buscado un valor de un campo aparece en el historial de busqueda como el campo buscado mas reciente. El resultado final es correcto.
+Cargamos el fichero de datos y comprobamos que una vez buscado un valor de un campo aparece en el historial de busqueda como la consulta mas reciente. El resultado final es correcto.
 
 ### Prerrequisitos
 
@@ -25,7 +25,7 @@ Cargamos el fichero de datos y comprobamos que una vez buscado un valor de un ca
 
 ### Resultados esperados
 
-Como resultado de la prueba obtendremos el parametro ("FB_datos1"."String"= 'yo7') en primer lugar.
+Como resultado de la prueba obtendremos en el historial de busqued el parametro ("FB_datos1"."String"= 'yo7') en primer lugar.
 
 ### Reportar fallo
 

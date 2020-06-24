@@ -26,7 +26,7 @@ Cargamos el fichero de datos y ordenamos un campo en orden descendente de forma 
 
 ### Resultados esperados
 
-Como resultado se visualizaran los registros de mayor a menor valor numerico en el campo "long".
+Como resultado se visualizaran los registros de mayor a menor valor numerico en el campo "long". Comenzando por el "ID" =" " y acabando por el "ID"= 1.
 
 ### Reportar fallo
 
