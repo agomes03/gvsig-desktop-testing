@@ -49,13 +49,13 @@ Cargamos el fichero de datos y acumularemos cinco busquedas distintas de cinco c
 
 ### Resultados esperados
 
-- Como resultado del paso 15 y se habilitara la pestaña de "Acumular filtros" y se limpiaran los valores de los campos.
+- Como resultado del paso 15 se habilitarán la pestañas de "Eliminar filtro acumulado" y "Modificar filtro acumulado" adyacentes a la pestaña de "Acumular filtro". Además se limpian los valores de los campos usados
 
-- Como resutado del paso 16 se habilitara la pestaña "ver filtro acumulado" y obtendremos la expresion ((("FB00_datos1 (4)"."String" = 'yo1') OR ("FB00_datos1 (4)"."ID" = 3)) OR ("FB00_datos1 (4)"."Byte" = 70)).
+- Como resutado del paso 16 se habilitará la pestaña "ver filtro acumulado" y obtendremos la expresion ((("FB00_datos1 (4)"."String" = 'yo1') OR ("FB00_datos1 (4)"."ID" = 3)) OR ("FB00_datos1 (4)"."Byte" = 70)).
 
-- Como resultado del paso 25 se habilitara la pestaña de "Acumular filtros" y se limpiaran los valores de los campos.
+- Como resultado del paso 25 se añaden las nuevas consultas al filtro acumulado. Además se limpian los valores de los campos usados..
 
-- Como resultado del paso 26 se habilitara la pestaña "ver filtro acumulado" y obtendremos la expresion final ( ("FB00_datos1 (4)"."String" = 'yo1') OR ("FB00_datos1 (4)"."ID" = 3) OR ("FB00_datos1 (4)"."Byte" = 70)) AND 
+- Como resultado del paso 26 se habilitará la pestaña "ver filtro acumulado" y obtendremos la expresion final ( ("FB00_datos1 (4)"."String" = 'yo1') OR ("FB00_datos1 (4)"."ID" = 3) OR ("FB00_datos1 (4)"."Byte" = 70)) AND 
 ( (("FB00_datos1 (4)"."Long" = 1000) AND ("FB00_datos1 (4)"."Decimal" = 456.123))).
 
 - Como resultado de la busqueda del paso 29 obtendremos 1 resultado con el "ID" = 1.
