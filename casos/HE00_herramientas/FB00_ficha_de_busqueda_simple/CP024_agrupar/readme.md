@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y agruparemos varios campos. El resultado final es correcto.
+Cargamos el fichero de datos y agruparemos varios campos. El resultado final no es correcto.
 
 ### Prerrequisitos
 

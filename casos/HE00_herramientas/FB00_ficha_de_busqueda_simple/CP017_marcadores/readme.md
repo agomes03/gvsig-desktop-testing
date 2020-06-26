@@ -4,7 +4,7 @@
 
 ### Descripcion
 
-Cargamos el fichero de datos y realizamos una busqueda. Dicha busqueda añadiremos a marcadores para posteriormente modificarlo de forma correcta. El resultado final es correcto.
+Cargamos el fichero de datos y realizamos una busqueda. Dicha busqueda la añadiremos a marcadores para posteriormente modificarlo de forma correcta. El resultado final es correcto.
 
 ### Prerrequisitos
 
