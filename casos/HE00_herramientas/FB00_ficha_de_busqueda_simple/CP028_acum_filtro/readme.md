@@ -49,7 +49,7 @@ Cargamos el fichero de datos y acumularemos cinco busquedas distintas de cinco c
 
 ### Resultados esperados
 
-- Como resultado del paso 15 se habilitarán la pestañas de "Eliminar filtro acumulado" y "Modificar filtro acumulado" adyacentes a la pestaña de "Acumular filtro". Además se limpian los valores de los campos usados
+- Como resultado del paso 15 se habilitarán la pestañas de "Eliminar filtro acumulado" y "Modificar filtro acumulado" adyacentes a la pestaña de "Acumular filtro". Además se limpian los valores de los campos usados.
 
 - Como resutado del paso 16 se habilitará la pestaña "ver filtro acumulado" y obtendremos la expresion ((("FB00_datos1 (4)"."String" = 'yo1') OR ("FB00_datos1 (4)"."ID" = 3)) OR ("FB00_datos1 (4)"."Byte" = 70)).
 
